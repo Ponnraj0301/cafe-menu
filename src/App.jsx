@@ -1,5 +1,5 @@
 import { useState } from "react";
-import DigitalMenu from "./components/DigitalMenu";
+import DigitalMenu from "./DigitalMenu.jsx";
 import "./DigitalMenu.css";
 
 function App() {

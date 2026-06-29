@@ -1,6 +1,6 @@
 import { useState, useMemo, useCallback, useEffect } from "react";
-import MenuCard from "./MenuCard";
-import Cart from "./Cart";
+import MenuCard from "./MenuCard.jsx";
+import Cart from "./Cart.jsx";
 import "./DigitalMenu.css";
 
 /* ─────────────────────────────────────────────────────────────
